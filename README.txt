@@ -1,1 +1,1 @@
-Hello
+This a Chess application created using Java. It plays like regular Chess except to win, a player must capture the opposing king.
